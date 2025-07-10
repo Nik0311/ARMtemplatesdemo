@@ -1,0 +1,8 @@
+arm template 
+
+storage account 
+
+parameters 
+
+variables 
+
